@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **likhithajlikhi@gmail.com**
+- 📫 How to reach me:- **likhithajlikhi@gmail.com**
 
-- ⚡ Fun fact **i love to sleep ...**
+- ⚡ Fun fact :- **i love to sleep😴😴 ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithaj123&show_icons=true&locale=en" alt="likhithaj123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithaj123&" alt="likhithaj123" /></p>
+
+<h3 align="center"> Spread ❤️ to all  </h3>
