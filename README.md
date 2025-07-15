@@ -1,88 +1,110 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/likhithaj123)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/TensorDevLJ)
 
 <h1 align="center">Hi 👋, I'm Likhitha J</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">💻 Passionate Frontend Developer | MERN Stack Enthusiast | Dreamer 🚀</h3>
 
-<img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-photo/girl-character-cartoon_861875-9055.jpg?w=740" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=likhithaj123&label=Profile%20views&color=0e75b6&style=flat" alt="likhithaj123" /> 
-</p>
+---
 
-<p align="left"> 
-  <a href="https://twitter.com/likhithaj8" target="blank">
-    <img src="https://img.shields.io/twitter/follow/likhithaj8?logo=twitter&style=for-the-badge" alt="likhithaj8" />
-  </a> 
+### 👩‍💻 About Me
+- 🔭 I’m currently working on **React Projects and Frontend Development**
+- 🌱 Learning **React Native** & **Backend (Node.js, Express)**
+- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **MERN Stack, Python, or Web Design**
+- 📫 Reach me at **likhithajlikhi@gmail.com**
+- 😄 Fun fact: I dream in `div`s and `functions` 😴
+
+---
+
+### 🧠 Skills
+```json
+{
+  "Languages": ["JavaScript", "Python", "Java", "C++"],
+  "Frontend": ["React.js", "HTML5", "CSS3", "Bootstrap", "TailwindCSS"],
+  "Backend": ["Node.js", "Express.js"],
+  "Database": ["MongoDB", "MySQL"],
+  "Tools": ["Git", "GitHub", "Figma", "Postman", "VS Code"]
+}
+```
+
+---
+
+### 🚀 Project Highlights
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/TensorDevLJ/Movie-Recommendation-System" target="_blank">
+        <img src="https://media.giphy.com/media/UTVyOp0wzVQfa/giphy.gif" width="150px" alt="project" /><br/>
+        <b>🎬 Movie Recommender</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TensorDevLJ/Chat-App" target="_blank">
+        <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="150px" alt="project"/><br/>
+        <b>💬 Real-time Chat App</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TensorDevLJ/Portfolio" target="_blank">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150px" alt="project"/><br/>
+        <b>🌐 Personal Portfolio</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ GitHub Stats (Dark Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TensorDevLJ&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TensorDevLJ&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TensorDevLJ&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Frontend development**
-- 🌱 I’m currently learning **React Native**
-- 🤝 I’m looking for help with **Backend Development**
-- 💬 Ask me about **MERN Stack**
-- 📫 How to reach me: **likhithajlikhi@gmail.com**
-- ⚡ Fun fact: **I love to sleep 😴😴 ...**
+### 🛠 Tools & Platforms
 
----
-
-### 📬 Connect with me:
-<p align="left">
-<a href="https://twitter.com/likhithaj8" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="likhithaj8" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/likhitha-j-362a0925b" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha j" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032" />
+  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/likhitha-j-362a0925b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/likhithaj8" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="mailto:likhithajlikhi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ☕ Support Me:
-<p>
-  <a href="https://www.buymeacoffee.com/likhithaJ">
+### 💖 Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/likhithaJ" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TensorDevLJ&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TensorDevLJ&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TensorDevLJ" alt="GitHub Streak" /></p>
-
----
-
+<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
 <h3 align="center">❤️ Spread Love to All ❤️</h3>
