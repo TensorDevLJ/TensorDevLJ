@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on **React Projects and Frontend Development**
+- 🔭 I’m currently working on ** AIML, Agents , LLP ,React Projects and Frontend Development**
 - 🌱 Learning **React Native** & **Backend (Node.js, Express)** **AIML , DL** as well🤣
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, Python, or Web Design**
