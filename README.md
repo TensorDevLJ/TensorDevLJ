@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/TensorDevLJ)
 
 <h1 align="center">Hi 👋, I'm Likhitha J</h1>
-<h3 align="center">💻 Passionate Frontend Developer|AIML |LLP| DL | MERN Stack Enthusiast | Dreamer 🚀</h3>
+<h3 align="center">💻 Passionate Frontend Developer|AIML |LLM| DL | MERN Stack Enthusiast | Dreamer 🚀</h3>
 
 <img align="right" alt="Coding" width="300" style="margin-top:-30px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on ** AIML, Agents , LLP ,React Projects and Frontend Development**
+- 🔭 I’m currently working on ** AIML, Agents , LLM ,React Projects and Frontend Development**
 - 🌱 Learning **React Native** & **Backend (Node.js, Express)** **AIML , DL** as well🤣
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, Python, or Web Design**
